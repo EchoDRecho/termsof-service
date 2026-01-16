@@ -6,3 +6,6 @@ This repo is waste of your time, am just leanring git here
 Discord: McKai_Xu\n
 Discord Originally know as : McKai_Xu#2098
 
+##BTW
+You can update the grammar issues if you want to :D
+
